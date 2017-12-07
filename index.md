@@ -5,8 +5,9 @@ root: .
 
 Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working
 with data so that they can get more done in less time, and with less pain. This workshop
-teaches data management and analysis for social science research including: 
- . . .. This workshop is designed to 
+teaches data management and analysis for social science research including best practices for data organization 
+in spreadsheets, reproducible data cleaning with OpenRefine, data analysis and visualization in either R or Python
+and extraction of information from relational databases using SQL. This workshop is designed to 
 be taught over two full days of instruction.
 
 > ## Getting Started
