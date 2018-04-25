@@ -21,7 +21,15 @@ be taught over two full days of instruction.
 
 > ## Data
 > 
-> This workshop uses data from . . .
+> This workshop uses data from two different sources.
+> 
+> Audit of Political Engagement 11, 2013 (UKDS: SN7577)
+> 
+> Where to find it:
+> The dataset is an open dataset available for download from the [UK Data Service](https://www.ukdataservice.ac.uk/ ). It can > > be found by searching using the keyword SN7577.
+> 
+> There are several variations of the dataset available. We will be using the 2013 edition. Several other years are available, > although the columns may change. There is also a combined dataset for the years 2003-2012 under SN 7404. As with most datasets > in the UK Data Service the data can be downloaded in a variety of formats.  Rather than downloading directly from the UK Data > Service site, copies of the data in csv (comma separated values) and .sqlite (for the SQL lesson)  has been made and can be > > downloaded from the [setup](./setup.md) page. 
+> 
 >
 {: .prereq} 
 
