@@ -16,9 +16,6 @@ and extraction of information from relational databases using SQL are in develop
 >
 > This lesson assumes no prior experience with the tools covered in the workshop. 
 > Participants should bring their laptops and plan to participate actively. 
-> 
-> To get started, follow the directions in the [setup](./setup.md) page to 
-> get access to the required software and data for this workshop.
 {: .prereq}
 
 > ## Data
