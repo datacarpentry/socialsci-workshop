@@ -6,9 +6,11 @@ root: .
 Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working
 with data so that they can get more done in less time, and with less pain. This workshop
 teaches data management and analysis for social science research including best practices for data organization 
-in spreadsheets, reproducible data cleaning with OpenRefine, data analysis and visualization in either R or Python
-and extraction of information from relational databases using SQL. This workshop is designed to 
+in spreadsheets, reproducible data cleaning with OpenRefine, and data analysis and visualization in R. This workshop is designed to 
 be taught over two full days of instruction.
+
+Materials for teaching data analysis and visualization in Python
+and extraction of information from relational databases using SQL are in development. 
 
 > ## Getting Started
 >
@@ -38,7 +40,8 @@ be taught over two full days of instruction.
 > 
 {: .prereq} 
 
-The workshop can be taught using R or Python as the base language.
+This lesson is taught using R as the base language. Materials for teaching with Python are in development and are marked as "beta"
+in the table below.
 
 # Workshop Overview 
 
@@ -47,5 +50,5 @@ The workshop can be taught using R or Python as the base language.
 | [Data Organization in Spreadsheets](https://datacarpentry.github.io/spreadsheets-socialsci/) | Learn how to organize tabular data, handle date formatting, carry out quality control and quality assurance and export data to use with downstream applications. |
 | [Data Cleaning with OpenRefine](https://datacarpentry.github.io/openrefine-socialsci/) | Explore, summarize, and clean tabular data reproducibly. |
 | [Data Analysis and Vizualization with R](https://datacarpentry.github.io/r-socialsci) | Import data into R, calculate summary statistics, and create publication-quality graphics.|
-| [Data Analysis and Vizualization with Python](https://datacarpentry.github.io/python-socialsci/) | Import data into Python, calculate summary statistics, and create publication-quality graphics.|
-| [Data Management with SQL](https://datacarpentry.github.io/sql-socialsci/) | Extract information from relational databases. |
+| [Data Analysis and Vizualization with Python *beta*](https://datacarpentry.github.io/python-socialsci/) | Import data into Python, calculate summary statistics, and create publication-quality graphics.|
+| [Data Management with SQL *beta*](https://datacarpentry.github.io/sql-socialsci/) | Extract information from relational databases. |
