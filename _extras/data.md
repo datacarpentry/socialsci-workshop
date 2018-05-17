@@ -10,8 +10,9 @@ you might have in a spreadsheet.
 
 ## The SAFI Teaching Database
 
-Available on FigShare: FIXME  
-**CITATION:** FIXME
+Available on FigShare: [https://figshare.com/articles/SAFI_Survey_Results/6262019](https://figshare.com/articles/SAFI_Survey_Results/6262019)
+
+**CITATION:** Woodhouse, Philip; Veldwisch, Gert Jan; Brockington, Daniel; Komakech, Hans C.; Manjichi, Angela; Venot, Jean-Philippe (2018): SAFI Survey Results. doi:10.6084/m9.figshare.6262019.v1
 
 SAFI (Studying African Farmer-Led Irrigation) is a currently running
 project which is looking at farming and irrigation methods. This is 
