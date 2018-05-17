@@ -50,5 +50,11 @@ in the table below.
 | [Data Organization in Spreadsheets](https://datacarpentry.github.io/spreadsheets-socialsci/) | Learn how to organize tabular data, handle date formatting, carry out quality control and quality assurance and export data to use with downstream applications. |
 | [Data Cleaning with OpenRefine](https://datacarpentry.github.io/openrefine-socialsci/) | Explore, summarize, and clean tabular data reproducibly. |
 | [Data Analysis and Vizualization with R](https://datacarpentry.github.io/r-socialsci) | Import data into R, calculate summary statistics, and create publication-quality graphics.|
-| [Data Analysis and Vizualization with Python *beta*](https://datacarpentry.github.io/python-socialsci/) | Import data into Python, calculate summary statistics, and create publication-quality graphics.|
-| [Data Management with SQL *beta*](https://datacarpentry.github.io/sql-socialsci/) | Extract information from relational databases. |
+
+
+# Workshop Materials in Development
+
+| Lesson    | Overview |
+| ------- | ---------- |
+| [Data Analysis and Vizualization with Python (beta)](https://datacarpentry.github.io/python-socialsci/) | Import data into Python, calculate summary statistics, and create publication-quality graphics.|
+| [Data Management with SQL (beta)](https://datacarpentry.github.io/sql-socialsci/) | Extract information from relational databases. |
