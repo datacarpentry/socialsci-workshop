@@ -31,7 +31,7 @@ and extraction of information from relational databases using SQL are in develop
 > The results are then sent back to a central server. 
 > The server can be used to produce the collected data in both JSON and CSV formats.
 > We will use a sample of the collected data in CSV format throughout this workshop. 
-> The data can be downloaded from FIXME. 
+> The data can be [downloaded from Figshare](https://figshare.com/articles/SAFI_Survey_Results/6262019). 
 >
 > [More information on this dataset](data)
 > 
