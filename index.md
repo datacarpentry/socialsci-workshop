@@ -37,8 +37,7 @@ and extraction of information from relational databases using SQL are in develop
 > 
 {: .prereq} 
 
-This lesson is taught using R as the base language. Materials for teaching with Python are in development and are marked as "beta"
-in the table below.
+This lesson is taught using R as the base language. Materials for teaching with Python are in development.
 
 # Workshop Overview 
 
@@ -53,5 +52,5 @@ in the table below.
 
 | Lesson    | Overview |
 | ------- | ---------- |
-| [Data Analysis and Vizualization with Python (beta)](https://datacarpentry.github.io/python-socialsci/) | Import data into Python, calculate summary statistics, and create publication-quality graphics.|
-| [Data Management with SQL (beta)](https://datacarpentry.github.io/sql-socialsci/) | Extract information from relational databases. |
+| [Data Analysis and Vizualization with Python](https://datacarpentry.github.io/python-socialsci/) | Import data into Python, calculate summary statistics, and create publication-quality graphics.|
+| [Data Management with SQL](https://datacarpentry.github.io/sql-socialsci/) | Extract information from relational databases. |
