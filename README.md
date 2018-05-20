@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/92422998.svg)](https://zenodo.org/badge/latestdoi/92422998)
+
 # Social Sciences Workshop
 
 Overview of the Social Sciences workshop. 
