@@ -27,7 +27,7 @@ teaching version of the collected data that we will be using. It is not the full
 
 The survey covered such things as; household features (e.g. 
 construction materials used, number of household members), 
-agricultrual practices (e.g. water usage), assets (e.g. number and 
+agricultural practices (e.g. water usage), assets (e.g. number and 
 types of livestock) and details about the household members.
 
 The basic teaching dataset used in these lessons is a JSON 
