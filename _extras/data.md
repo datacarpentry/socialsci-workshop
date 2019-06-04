@@ -57,7 +57,6 @@ reference a subset of the fields in the lessons.
 | remittance_money | Is there any financial assistance from family members not living on the farm | 
 | years_liv | How many years have you been living in this village or neighboring village? |
 | parents_liv | Did your parents live in this village or neighboring village? |
-| grand_liv | Did your grandparents live in this village or neighboring village? | 
 | sp_parents_liv | Did your spouse's parents live in this village or neighbouring village? | 
 | grand_liv | Did your grandparents live in this village or neighbouring village? |
 | sp_grand_liv | Did your spouse's grandparents live in this village or neighbouring village? | 
