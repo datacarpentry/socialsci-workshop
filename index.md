@@ -50,12 +50,17 @@ This curriculum is currently available using R as the main programming language.
 | ------- | ---------- |
 | [Data Organization in Spreadsheets](https://datacarpentry.github.io/spreadsheets-socialsci/) | Learn how to organize tabular data, handle date formatting, carry out quality control and quality assurance and export data to use with downstream applications. |
 | [Data Cleaning with OpenRefine](https://datacarpentry.github.io/openrefine-socialsci/) | Explore, summarize, and clean tabular data reproducibly. |
-| [Data Analysis and Vizualization with R](https://datacarpentry.github.io/r-socialsci) | Import data into R, calculate summary statistics, and create publication-quality graphics.|
-
+| [Data Analysis and Visualisation with R](https://datacarpentry.github.io/r-socialsci) | Import data into R, calculate summary statistics, and create publication-quality graphics.|
 
 # Workshop Materials in Development
 
 | Lesson    | Overview |
 | ------- | ---------- |
-| [Data Analysis and Vizualization with Python](https://datacarpentry.github.io/python-socialsci/) | Import data into Python, calculate summary statistics, and create publication-quality graphics.|
+| [Data Analysis and Visualisation with Python](https://datacarpentry.github.io/python-socialsci/) | Import data into Python, calculate summary statistics, and create publication-quality graphics.|
 | [Data Management with SQL](https://datacarpentry.github.io/sql-socialsci/) | Extract information from relational databases. |
+
+# Sample Schedule
+
+- **Day 1 morning**: Data Organization in Spreadsheets, Data Cleaning with OpenRefine
+- **Day 1 afternoon and Day 2 morning**: Data Analysis and Visualisation with R (can replace with Python)
+- **Day 2 afternoon**: Data Management with SQL
