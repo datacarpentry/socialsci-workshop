@@ -92,7 +92,8 @@ reference a subset of the fields in the lessons.
 | du_labour | In the most recent cultivation season, did anyone in the household undertake day labour work on other farm? | 
 | liv_owned | What types of livestock do you own? (list) |
 | liv_owned_other | What types of livestock do you own? (not on list)| 
-| liv_count | Own poultry? | 
+| liv_count | Livestock count
+| poultry | Own poultry? | 
 | du_look_aftr_cows | At the present time, does the household look after cows for someone else in return for milk or money? | 
 | items_owned | Which of the following items are owned by the household? (list) | 
 | items_owned_other | Which of the following items are owned by the household? (not on list) | 
