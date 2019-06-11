@@ -13,6 +13,15 @@ in R. This curriculum is designed to be taught over two full days of instruction
 Materials for teaching data analysis and visualization in Python
 and extraction of information from relational databases using SQL are in development. 
 
+Interested in teaching these materials? 
+We have an [onboarding video](https://www.youtube.com/watch?v=u4nDomxRVoI&t=2s) and accompanying 
+[slides](https://docs.google.com/presentation/d/1rR7pLSftBYBnLBmaMWeytfDtcRfwVUWxPYGx30ZJNkc/edit#slide=id.p) 
+available to prepare Instructors to teach these lessons. After watching this video, 
+please contact [team@carpentries.org](mailto:team@carpentries.org) so that we can record your 
+status as an onboarded Instructor. Instructors who 
+have completed onboarding will be given priority status for teaching at centrally-organized 
+Data Carpentry Social Sciences workshops.
+
 > ## Getting Started
 >
 > This curriculum assumes no prior experience with the tools covered in the
