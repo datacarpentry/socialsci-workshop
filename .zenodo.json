@@ -1,1 +1,36 @@
-{"contributors":[{"type":"Editor","name":"Stephen Childs"},{"type":"Editor","name":"Juan Fung"},{"type":"Editor","name":"Geoff LaFlair"},{"type":"Editor","name":"Rachel Gibson"},{"type":"Editor","name":"Chris Prener"},{"type":"Editor","name":"Peter Smyth"}],"creators":[{"name":"Peter Smyth"},{"name":"Tracy Teal"},{"name":"François Michonneau"},{"name":"Erin Becker"}],"license":{"id":"CC-BY-4.0"}}
+{
+  "contributors": [
+    {
+      "type": "Editor",
+      "name": "angela-li"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Erin Alison Becker",
+      "orcid": "0000-0002-6832-0233"
+    },
+    {
+      "name": "Francois Michonneau",
+      "orcid": "0000-0002-9092-966X"
+    },
+    {
+      "name": "angela-li"
+    },
+    {
+      "name": "Tracy Teal",
+      "orcid": "0000-0002-9180-9598"
+    },
+    {
+      "name": "Maneesha Sane",
+      "orcid": "0000-0003-0726-5696"
+    },
+    {
+      "name": "Sarah Brown",
+      "orcid": "0000-0001-5728-0822"
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  }
+}
