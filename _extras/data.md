@@ -10,8 +10,9 @@ you might have in a spreadsheet.
 
 ## The SAFI Teaching Database
 
-Available on FigShare: FIXME  
-**CITATION:** FIXME
+Available on FigShare: [https://figshare.com/articles/SAFI_Survey_Results/6262019](https://figshare.com/articles/SAFI_Survey_Results/6262019)
+
+**CITATION:** Woodhouse, Philip; Veldwisch, Gert Jan; Brockington, Daniel; Komakech, Hans C.; Manjichi, Angela; Venot, Jean-Philippe (2018): SAFI Survey Results. doi:10.6084/m9.figshare.6262019.v1
 
 SAFI (Studying African Farmer-Led Irrigation) is a currently running
 project which is looking at farming and irrigation methods. This is 
@@ -26,7 +27,7 @@ teaching version of the collected data that we will be using. It is not the full
 
 The survey covered such things as; household features (e.g. 
 construction materials used, number of household members), 
-agricultrual practices (e.g. water usage), assets (e.g. number and 
+agricultural practices (e.g. water usage), assets (e.g. number and 
 types of livestock) and details about the household members.
 
 The basic teaching dataset used in these lessons is a JSON 
@@ -56,7 +57,6 @@ reference a subset of the fields in the lessons.
 | remittance_money | Is there any financial assistance from family members not living on the farm | 
 | years_liv | How many years have you been living in this village or neighboring village? |
 | parents_liv | Did your parents live in this village or neighboring village? |
-| grand_liv | Did your grandparents live in this village or neighboring village? | 
 | sp_parents_liv | Did your spouse's parents live in this village or neighbouring village? | 
 | grand_liv | Did your grandparents live in this village or neighbouring village? |
 | sp_grand_liv | Did your spouse's grandparents live in this village or neighbouring village? | 
@@ -91,7 +91,8 @@ reference a subset of the fields in the lessons.
 | du_labour | In the most recent cultivation season, did anyone in the household undertake day labour work on other farm? | 
 | liv_owned | What types of livestock do you own? (list) |
 | liv_owned_other | What types of livestock do you own? (not on list)| 
-| liv_count | Own poultry? | 
+| liv_count | Livestock count
+| poultry | Own poultry? | 
 | du_look_aftr_cows | At the present time, does the household look after cows for someone else in return for milk or money? | 
 | items_owned | Which of the following items are owned by the household? (list) | 
 | items_owned_other | Which of the following items are owned by the household? (not on list) | 
