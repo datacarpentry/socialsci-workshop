@@ -24,16 +24,21 @@ Data Carpentry Social Sciences workshops.
 
 > ## Getting Started
 >
-> This curriculum assumes no prior experience with the tools covered in the
-> workshop. Participants should bring their laptops and plan to participate
-> actively.
+> Data Carpentry’s teaching is hands-on, so participants are encouraged to use 
+> their own computers to ensure the proper setup of tools for an efficient 
+> workflow. To most effectively use these materials, please make sure to download 
+> the data and install everything before working through this lesson. 
+> 
+> This workshop assumes no prior experience with the tools covered in the workshop.
+>
+> To get started, follow the directions in the [Setup](setup.html) tab to
+> get access to the required software and data for this workshop.
 {: .prereq}
 
 > ## Data
 > 
-> This curriculum uses the same dataset throughout. 
-> 
-> **Studying African Farmer-led Irrigation (SAFI) dataset**
+> The data for this workshop are in the [SAFI Survey Results Project](https://figshare.com/articles/SAFI_Survey_Results/6262019) 
+> available on FigShare, with a CC-BY license available for reuse.
 > 
 > The [SAFI Project](http://www.safi-research.org/) is a research project
 > looking at farming and irrigation methods used by farmers in Tanzania and
@@ -43,9 +48,7 @@ Data Carpentry Social Sciences workshops.
 > a form which can be downloaded and displayed (and completed) on an Android
 > smartphone. The results are then sent back to a central server. The server can
 > be used to produce the collected data in both JSON and CSV formats. We will
-> use a sample of the collected data in CSV format throughout this workshop. The
-> data can be [downloaded from
-> Figshare](https://figshare.com/articles/SAFI_Survey_Results/6262019).
+> use a sample of the collected data in CSV format throughout this workshop.
 >
 > [More information on this dataset](data)
 > 
