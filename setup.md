@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Setup
-permalink: /setup/
 ---
 
-Installation instructions are available in each lesson for this curriculum.
+{% include setup-overview.md %}
 
-- [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/setup.html)
-- [Data Cleaning with OpenRefine for Social Scientists](https://datacarpentry.org/openrefine-socialsci/setup.html)
-- [Data Analysis and Visualisation with R for Social Scientists](https://datacarpentry.org/r-socialsci/)
+
+## Setup instructions for your workshop
+
+* If you are attending a workshop where Python will be taught,
+  follow [these setup instructions]({{ site.baseurl }}{% link setup-python-workshop.md %})
+* If you are attentind a workshop where R will be taught,
+  follow [these setup instructions]({{ site.baseurl }}{% link setup-r-workshop.md%})
