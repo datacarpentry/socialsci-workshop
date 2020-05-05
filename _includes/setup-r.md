@@ -49,7 +49,7 @@ your operating system, and then follow the instructions to install
 >	also display which version of R you are running. Go on
 >	  the [CRAN website](https://cran.r-project.org/bin/macosx/) and check
 >	  whether a more recent version is available. If so, please download and install
->	  it.
+>	  it. In any case, make sure you have at least R 3.2.
 {: .solution}
 
 > ## If you don't have R and RStudio installed
@@ -76,7 +76,7 @@ your operating system, and then follow the instructions to install
  distributions, you could use your package manager (e.g., for Debian/Ubuntu run
  `sudo apt-get install r-base`, and for Fedora `sudo yum install R`), but we
  don't recommend this approach as the versions provided by this are
- usually out of date. In any case, make sure you have at least R 3.5.1.
+ usually out of date. In any case, make sure you have at least R 3.2.
 * Go to the [RStudio download
   page](https://www.rstudio.com/products/rstudio/download/#download)
 * Under *Installers* select the version that matches your distribution, and
