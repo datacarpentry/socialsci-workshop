@@ -37,7 +37,7 @@ Data Carpentry Social Sciences workshops.
 
 > ## Data
 > 
-> The data for this workshop are in the [SAFI Survey Results Project](https://figshare.com/articles/SAFI_Survey_Results/6262019) 
+> The data for this workshop are in the [SAFI Survey Results Project](https://doi.org/10.6084/m9.figshare.6262019.v4) 
 > available on FigShare, with a CC-BY license available for reuse.
 > 
 > The [SAFI Project](http://www.safi-research.org/) is a research project
