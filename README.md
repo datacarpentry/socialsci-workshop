@@ -2,7 +2,7 @@
 
 # Social Sciences Workshop
 
-Overview of the Social Sciences workshop. 
+A workshop for teaching data management and analysis for social science research including best practices for data organization,reproducible data cleaning, , and data analysis and visualization. Please see [https://datacarpentry.org/socialsci-workshop/](https://datacarpentry.org/socialsci-workshop/) for a rendered version of this material, [the lesson template documentation](https://carpentries.github.io/lesson-example/) for instructions on formatting, building, and submitting material, or run make in this directory for a list of helpful commands.
 
 ## Code of Conduct
 
