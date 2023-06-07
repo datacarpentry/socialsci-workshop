@@ -1,5 +1,7 @@
 ### R and RStudio
 
+[download-rstudio]: https://posit.co/download/rstudio-desktop/#download
+
 * R and RStudio are separate downloads and installations. R is the
 underlying statistical computing environment, but using R alone is no
 fun. RStudio is a graphical integrated development environment (IDE) that makes
@@ -21,16 +23,19 @@ your operating system, and then follow the instructions to install
 >  which version of R you are running. Go on
 >  the [CRAN website](https://cran.r-project.org/bin/windows/base/) and check
 > whether a more recent version is available. If so, please download and install
-> it. You can [check here](https://cran.r-project.org/bin/windows/base/rw-FAQ.html#How-do-I-UNinstall-R_003f) for
-> more information on how to remove old versions from your system if you wish to do so.
+> it.
+>
+> You can [uninstall older versions of R][uninstall-r] if you wish to do so.
 {: .solution}
+
+[uninstall-r]: https://cran.r-project.org/bin/windows/base/rw-FAQ.html#How-do-I-UNinstall-R_003f
 
 > ## If you don't have R and RStudio installed
 >
 > * Download R from
 >  the [CRAN website](https://cran.r-project.org/bin/windows/base/release.htm).
 > * Run the `.exe` file that was just downloaded
-> * Go to the [RStudio download page](https://www.rstudio.com/products/rstudio/download/#download)
+> * Go to the [RStudio download page][download-rstudio]
 > * Under *Installers* select **RStudio x.yy.zzz - Windows Vista/7/8/10** (where x, y, and z represent version numbers)
 > * Double click the file to install it
 > * Once it's installed, open RStudio to make sure it works and you don't get any
@@ -60,7 +65,7 @@ your operating system, and then follow the instructions to install
 > * Double click on the downloaded file to install R
 > * It is also a good idea to install [XQuartz](https://www.xquartz.org/) (needed
 >   by some packages)
-> * Go to the [RStudio download page](https://www.rstudio.com/products/rstudio/download/#download)
+> * Go to the [RStudio download page][download-rstudio]
 > * Under *Installers* select **RStudio x.yy.zzz - Mac OS X 10.6+ (64-bit)**
 >   (where x, y, and z represent version numbers)
 > * Double click the file to install RStudio
@@ -77,8 +82,7 @@ your operating system, and then follow the instructions to install
  `sudo apt-get install r-base`, and for Fedora `sudo yum install R`), but we
  don't recommend this approach as the versions provided by this are
  usually out of date. In any case, make sure you have at least R 3.2.
-* Go to the [RStudio download
-  page](https://www.rstudio.com/products/rstudio/download/#download)
+* Go to the [RStudio download page][download-rstudio]
 * Under *Installers* select the version that matches your distribution, and
    install it with your preferred method (e.g., with Debian/Ubuntu `sudo dpkg -i
    rstudio-x.yy.zzz-amd64.deb` at the terminal).
