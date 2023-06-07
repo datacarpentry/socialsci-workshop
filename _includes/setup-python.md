@@ -1,6 +1,6 @@
 ### Python and Jupyter Notebooks
 
-* [Python](http://python.org) is a popular language for
+* [Python](https://python.org) is a popular language for
 scientific computing, and great for general-purpose programming as
 well. For this workshop we use Python version 3.x.
 Installing all of its scientific packages individually can be

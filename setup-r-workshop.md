@@ -12,11 +12,11 @@ title: Setup for R workshop
 
 | Software | Install | Manual | Available for | Description |
 | -------- | ------------ | ------ | ------------- | ----------- |
-| Spreadsheet program | [Link](https://www.libreoffice.org/download/download/) | [Link](https://documentation.libreoffice.org/en/english-documentation/) | Linux, MacOS, Windows | Spreadsheet program for organizing tabular data. |
-| OpenRefine |[Link](http://openrefine.org/download.html) | [Link](http://openrefine.org/documentation.html) | Linux, MacOS, Windows |
+| Spreadsheet program | [Download LibreOffice](https://www.libreoffice.org/download/download-libreoffice/) | [LibreOffice documentation](https://documentation.libreoffice.org/en/english-documentation/) | Linux, MacOS, Windows | Spreadsheet program for organizing tabular data. |
+| OpenRefine |[Download OpenRefine](https://openrefine.org/download.html) | [OpenRefine documentation](https://openrefine.org/docs) | Linux, MacOS, Windows |
 | R | See install instructions below. | | Linux, MacOS, Windows | |
-| RStudio | [Link](https://www.rstudio.com/products/rstudio/download/#download) | [Cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf) | Linux, MacOS, Windows| |
-| SQLite Browser | [Link](http://sqlitebrowser.org/dl/) | | |
+| RStudio | [Download RStudio](https://posit.co/download/rstudio-desktop/#download) | [RStudio Cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rstudio-ide.pdf) | Linux, MacOS, Windows| |
+| DB Browser for SQLite | [Download DB Browser for SQLite](https://sqlitebrowser.org/dl/) | Linux, MacOS, Windows | |
 
 
 
