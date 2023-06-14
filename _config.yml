@@ -51,9 +51,9 @@ start_time: 0
 
 # Specify that things in the episodes collection should be output.
 collections:
-  episodes:
-    output: true
-    permalink: /:path/
+#  episodes:
+#    output: true
+#    permalink: /:path/
   extras:
     output: true
 
