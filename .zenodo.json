@@ -2,7 +2,16 @@
   "contributors": [
     {
       "type": "Editor",
-      "name": "angela-li"
+      "name": "Johanna Bayer"
+    },
+    {
+      "type": "Editor",
+      "name": "Jean Baptiste Fankam Fankam",
+      "orcid": "0000-0003-0389-5404"
+    },
+    {
+      "type": "Editor",
+      "name": "Jesse Sadler"
     }
   ],
   "creators": [
@@ -11,23 +20,37 @@
       "orcid": "0000-0002-6832-0233"
     },
     {
-      "name": "Francois Michonneau",
-      "orcid": "0000-0002-9092-966X"
+      "name": "Ben Companjen"
     },
     {
-      "name": "angela-li"
+      "name": "Christopher Prener"
     },
     {
-      "name": "Tracy Teal",
-      "orcid": "0000-0002-9180-9598"
+      "name": "Jean Baptiste Fankam Fankam",
+      "orcid": "0000-0003-0389-5404"
     },
     {
-      "name": "Maneesha Sane",
-      "orcid": "0000-0003-0726-5696"
+      "name": "Johanna Bayer"
     },
     {
-      "name": "Sarah Brown",
-      "orcid": "0000-0001-5728-0822"
+      "name": "Johanna Bayer"
+    },
+    {
+      "name": "Katrin Leinweber",
+      "orcid": "0000-0001-5135-5758"
+    },
+    {
+      "name": "Maneesha Sane"
+    },
+    {
+      "name": "Saber Soleymani",
+      "orcid": "0000-0002-0771-4319"
+    },
+    {
+      "name": "ThorkellMoon"
+    },
+    {
+      "name": "Laura Josephine Botzet"
     }
   ],
   "license": {
