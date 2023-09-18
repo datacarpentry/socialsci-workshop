@@ -15,7 +15,7 @@
 
 #### Windows
 
-:::::::::::::::  solution
+:::::::::::::::: spoiler
 
 ## If you already have R and RStudio installed
 
@@ -34,7 +34,7 @@ You can [uninstall older versions of R][uninstall-r] if you wish to do so.
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::: spoiler
 
 ## If you don't have R and RStudio installed
 
@@ -52,7 +52,7 @@ You can [uninstall older versions of R][uninstall-r] if you wish to do so.
 
 #### macOS
 
-:::::::::::::::  solution
+:::::::::::::::: spoiler
 
 ## If you already have R and RStudio installed
 
@@ -68,7 +68,7 @@ You can [uninstall older versions of R][uninstall-r] if you wish to do so.
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::: spoiler
 
 ## If you don't have R and RStudio installed
 

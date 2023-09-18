@@ -8,9 +8,9 @@ The following table provides links to instructor notes and timings for each less
 
 | Lesson | Link to Instructor Notes | Length | 
 | ------ | ------------------------ | ------ |
-| [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/)       | [Notes](https://datacarpentry.org/spreadsheets-socialsci/guide/)                         | **2 hours**       | 
-| [Data Cleaning with Open Refine](https://datacarpentry.org/openrefine-socialsci/)       | [Notes](https://datacarpentry.org/openrefine-socialsci/guide/)                         | **2 hours**       | 
-| [Data Analysis and Visualization in R](https://datacarpentry.org/r-socialsci/)       | [Notes](https://datacarpentry.org/r-socialsci/guide/index.html)                         | **6\.5 hours**       | 
+| [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/)       | [Notes](https://datacarpentry.org/spreadsheets-socialsciinstructor/instructor-notes.html)                         | **2 hours**       | 
+| [Data Cleaning with Open Refine](https://datacarpentry.org/openrefine-socialsci/)       | [Notes](https://datacarpentry.org/openrefine-socialsciinstructor/instructor-notes.html)                         | **2 hours**       | 
+| [Data Analysis and Visualization in R](https://datacarpentry.org/r-socialsci/)       | [Notes](https://datacarpentry.org/r-socialsciinstructor/instructor-notes.html)                         | **6\.5 hours**       | 
 
 The following workshops are under development:
 

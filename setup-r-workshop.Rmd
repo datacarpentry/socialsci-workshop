@@ -1,0 +1,36 @@
+---
+layout: page
+title: Setup for R workshop
+---
+
+```{r include-setup-overview, child="files/setup-overview.md"}
+```
+
+```{r include-setup-data, child="files/setup-data.md"}
+```
+
+## Software
+
+| Software              | Install                         | Manual                | Available for         | Description                                      | 
+| --------------------- | ------------------------------- | --------------------- | --------------------- | ------------------------------------------------ |
+| Spreadsheet program   | [Download LibreOffice](https://www.libreoffice.org/download/download-libreoffice/)                                | [LibreOffice documentation](https://documentation.libreoffice.org/en/english-documentation/)                      | Linux, MacOS, Windows | Spreadsheet program for organizing tabular data. | 
+| OpenRefine            | [Download OpenRefine](https://openrefine.org/download.html)                                | [OpenRefine documentation](https://openrefine.org/docs)                      | Linux, MacOS, Windows |                                                  | 
+| R                     | See install instructions below. |                       | Linux, MacOS, Windows |                                                  | 
+| RStudio               | [Download RStudio](https://posit.co/download/rstudio-desktop/#download)                                | [RStudio Cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rstudio-ide.pdf)                      | Linux, MacOS, Windows |                                                  | 
+| DB Browser for SQLite | [Download DB Browser for SQLite](https://sqlitebrowser.org/dl/)                                | Linux, MacOS, Windows |                       |                                                  | 
+
+```{r include-setup-spreadsheet, child="files/setup-spreadsheet.md"}
+```
+
+```{r include-setup-openrefine, child="files/setup-openrefine.md"}
+```
+
+```{r include-setup-r, child="files/setup-r.md"}
+```
+
+```{r include-setup-sql, child="files/setup-sql.md"}
+```
+
+Congratulations! You are now ready for the workshop!
+
+
