@@ -10,10 +10,12 @@ All participants should agree to abide by the [Carpentries Code of Conduct](http
 
 ## Authors
 
-The Social Sciences workshop overview is authored and maintained by the [Curriculum Advisory Committee](http://www.datacarpentry.org/lesson-leadership/#curriculum-advisors---social-sciences).
+The Social Sciences workshop overview is authored and maintained by the [Curriculum Advisory Committee](https://www.datacarpentry.org/lesson-leadership/#curriculum-advisors---social-sciences).
 
 ## Citation
 
 Please cite as:
 
-Data Carpentry Social Sciences Workshop. May 2018. 
+Data Carpentry Social Sciences Workshop. May 2018.
+
+

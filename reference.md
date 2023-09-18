@@ -1,6 +1,0 @@
----
-layout: reference
-permalink: /reference/
----
-
-
