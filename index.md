@@ -62,17 +62,17 @@ This curriculum is currently available using R as the main programming language.
 
 # Workshop Overview
 
-| Lesson | Overview                                                                                                                                                         | 
+| Lesson | Overview                                                                                                                                                         |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/)       | Learn how to organize tabular data, handle date formatting, carry out quality control and quality assurance and export data to use with downstream applications. | 
-| [Data Cleaning with OpenRefine](https://datacarpentry.org/openrefine-socialsci/)       | Explore, summarize, and clean tabular data reproducibly.                                                                                                         | 
-| [Data Analysis and Visualisation with R](https://datacarpentry.org/r-socialsci)       | Import data into R, calculate summary statistics, and create publication-quality graphics.                                                                       | 
+| [Data Organization in Spreadsheets](https://datacarpentry.github.io/spreadsheets-socialsci/)       | Learn how to organize tabular data, handle date formatting, carry out quality control and quality assurance and export data to use with downstream applications. |
+| [Data Cleaning with OpenRefine](https://datacarpentry.github.iog/openrefine-socialsci/)       | Explore, summarize, and clean tabular data reproducibly.                                                                                                         |
+| [Data Analysis and Visualisation with R](https://datacarpentry.github.io/r-socialsci)       | Import data into R, calculate summary statistics, and create publication-quality graphics.                                                                       |
 
 # Workshop Materials in Development
 
-| Lesson | Overview                                                                                                                                                         | 
+| Lesson | Overview                                                                                                                                                         |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [Data Analysis and Visualisation with Python](https://datacarpentry.org/python-socialsci/)       | Import data into Python, calculate summary statistics, and create publication-quality graphics.                                                                  | 
-| [Data Management with SQL](https://datacarpentry.org/sql-socialsci/)       | Extract information from relational databases.                                                                                                                   | 
+| [Data Analysis and Visualisation with Python](https://datacarpentry.github.io/python-socialsci/)       | Import data into Python, calculate summary statistics, and create publication-quality graphics.                                                                  |
+| [Data Management with SQL](https://datacarpentry.github.io/sql-socialsci/)       | Extract information from relational databases.                                                                                                                   |
 
 
