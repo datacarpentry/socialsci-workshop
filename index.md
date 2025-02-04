@@ -54,7 +54,7 @@ smartphone. The results are then sent back to a central server. The server can
 be used to produce the collected data in both JSON and CSV formats. We will
 use a sample of the collected data in CSV format throughout this workshop.
 
-[More information on this dataset](instructors/data.md)
+[More information on this dataset](learners/data.md)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -62,17 +62,17 @@ This curriculum is currently available using R as the main programming language.
 
 # Workshop Overview
 
-| Lesson | Overview                                                                                                                                                         | 
+| Lesson | Overview                                                                                                                                                         |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [Data Organization in Spreadsheets](https://datacarpentry.github.io/spreadsheets-socialsci/)       | Learn how to organize tabular data, handle date formatting, carry out quality control and quality assurance and export data to use with downstream applications. | 
-| [Data Cleaning with OpenRefine](https://datacarpentry.github.io/openrefine-socialsci/)       | Explore, summarize, and clean tabular data reproducibly.                                                                                                         | 
-| [Data Analysis and Visualisation with R](https://datacarpentry.github.io/r-socialsci)       | Import data into R, calculate summary statistics, and create publication-quality graphics.                                                                       | 
+| [Data Organization in Spreadsheets](https://datacarpentry.github.io/spreadsheets-socialsci/)       | Learn how to organize tabular data, handle date formatting, carry out quality control and quality assurance and export data to use with downstream applications. |
+| [Data Cleaning with OpenRefine](https://datacarpentry.github.iog/openrefine-socialsci/)       | Explore, summarize, and clean tabular data reproducibly.                                                                                                         |
+| [Data Analysis and Visualisation with R](https://datacarpentry.github.io/r-socialsci)       | Import data into R, calculate summary statistics, and create publication-quality graphics.                                                                       |
 
 # Workshop Materials in Development
 
-| Lesson | Overview                                                                                                                                                         | 
+| Lesson | Overview                                                                                                                                                         |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [Data Analysis and Visualisation with Python](https://datacarpentry.github.io/python-socialsci/)       | Import data into Python, calculate summary statistics, and create publication-quality graphics.                                                                  | 
-| [Data Management with SQL](https://datacarpentry.github.io/sql-socialsci/)       | Extract information from relational databases.                                                                                                                   | 
+| [Data Analysis and Visualisation with Python](https://datacarpentry.github.io/python-socialsci/)       | Import data into Python, calculate summary statistics, and create publication-quality graphics.                                                                  |
+| [Data Management with SQL](https://datacarpentry.github.io/sql-socialsci/)       | Extract information from relational databases.                                                                                                                   |
 
 
